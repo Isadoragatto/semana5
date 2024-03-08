@@ -10,7 +10,7 @@
         }
 
         verTotal(){
-            console.log( `o valor total das notas de ${this.total}` ) 
+            console.log( `o valor total das notas é ${this.total}` ) 
         }
 
     }
